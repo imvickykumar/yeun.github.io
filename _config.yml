@@ -7,3 +7,8 @@ gems: [jekyll-paginate]
 home_url: "https://heeyeun.github.io"
 representing_image: ""
 future: true
+title: Heeyeun.GitHub.io
+description: 
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
